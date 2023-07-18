@@ -1,5 +1,5 @@
 # Housing-Price-Prediction-Project
-1) Firstly, we have imported the data from the given file into the jupyter notebook.
+1) Firstly, we have imported the data from the Housing project train data file into the jupyter notebook.
 
 2) Then, we handled the missing data by dropping the columns which have mostly Null values and imputing the object columns by its ‘mode’ and numerical columns by its ‘mean’.
 
