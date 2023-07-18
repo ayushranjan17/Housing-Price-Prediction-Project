@@ -13,4 +13,4 @@
 
 7) “Random Forest Classifier” comes out as the best model and then we predicted values on housing project test data and also done the hyperparameter tuning on “Random Forest”.
 
- Predicted files are MODEL1.csv and MODEL2.csv
+ Predicted files are MODEL1.csv and MODEL2.csv and codes are in MODEL_codes.ipynb
