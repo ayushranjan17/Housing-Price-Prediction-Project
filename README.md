@@ -1,4 +1,6 @@
-# Housing-Price-Prediction-Project
+Predicted files are MODEL1.csv and MODEL2.csv and codes are in MODEL_codes.ipynb
+
+Brief report of project-
 1) Firstly, we have imported the data from the Housing project train data file into the jupyter notebook.
 
 2) Then, we handled the missing data by dropping the columns which have mostly Null values and imputing the object columns by its ‘mode’ and numerical columns by its ‘mean’.
@@ -13,4 +15,4 @@
 
 7) “Random Forest Classifier” comes out as the best model and then we predicted values on housing project test data and also done the hyperparameter tuning on “Random Forest”.
 
- Predicted files are MODEL1.csv and MODEL2.csv and codes are in MODEL_codes.ipynb
+ 
