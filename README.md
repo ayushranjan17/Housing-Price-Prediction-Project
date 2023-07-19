@@ -14,6 +14,6 @@ Brief report of project-
 
 6) Finally, we trained the model using different type of classifiers and evaluation metrics as “mean absolute error” and “r2 score”.
 
-7) “Random Forest Classifier” comes out as the best model and then we predicted values on 'Housing-project-test-data' and also done the hyperparameter tuning on “Random Forest”.
+7) “Random Forest Classifier” comes out as the best model and then we predicted values on 'Housing-project-test-data' and also done the hyperparameter tuning on “Random Forest Classifier”.
 
  
